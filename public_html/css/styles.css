@@ -4,7 +4,7 @@
 }
 
 header{
-    background-color: #96ffa3;
+    background-color: #cff145;
 }
 
 .superior{
@@ -53,4 +53,8 @@ body{
 .texto{
     text-align: justify;
     margin-right: 20px;
+}
+
+h1{
+    margin-left: 20px;
 }
