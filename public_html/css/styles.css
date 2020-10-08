@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #96ffa3;
+}
+
+.superior{
+    overflow: hidden;
+}
+
+.logo{
+    float: left;
+}
+
+.menu{
+    float: left;
+    margin-top: 160px; 
+}
+
+nav li{
+    display: inline-block;
+    border: solid;
+    border-color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+nav li:hover{
+    background-color: #fcc440;
+}
+
+body{
+    background-color: #fcc440;
+}
+
+#imgpsicologa{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid;
+    border-radius: 10px;
+    border-color: white;
+    height: 350px;
+    width: auto;
+    float: left;
+    overflow: visible;
+}
+
+.texto{
+    text-align: justify;
+    margin-right: 20px;
+}
