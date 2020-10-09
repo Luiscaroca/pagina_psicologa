@@ -26,18 +26,22 @@
         <div>
             <h1>Puedes contactarme directamente:</h1>
             </br>
+            <img class="imgcontacto" src="images/Correo.png" alt=""/>
             <a class="textcontacto" href="mailto:mjcaroca.araya@gmail.com">Da clic aquí para enviarme un correo</a>
             </br>
             </br>
+            <img class="imgcontacto" src="images/WhatsApp.png" alt=""/>
             <a class="textcontacto" href="https://api.whatsapp.com/send?phone=56933914571">Da clic aquí para comunicarnos vía WhatsApp</a>
         </div>
         </br>
         <div>
             <h1>O puedes ver mis datos de contacto aquí:</h1>
             </br>
+            <img class="imgcontacto" src="images/Correo.png" alt=""/>
             <a class="textcontacto"><strong>Correo:</strong> mjcaroca.araya@gmail.com</a>
             </br>
             </br>
+            <img class="imgcontacto" src="images/Telefono.png" alt=""/>
             <a class="textcontacto"><strong>Número de teléfono:</strong> +56 9 3391 4571</a>
         </div>
     </body>
