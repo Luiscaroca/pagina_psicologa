@@ -2,7 +2,7 @@
 
 <html>
     <head>
-        <title>Inicio</title>
+        <title>Contacto</title>
         <meta charset="UTF-8">
         <link rel="icon" href="public_html/images/favicon.ico" type="image/x-icon"/>
         <link href="public_html/css/styles.css" rel="stylesheet" type="text/css"/>
@@ -23,6 +23,22 @@
             </nav>
         </header>
         </br>
-        <h1>Contacto:</h1>
+        <div>
+            <h1>Puedes contactarme directamente:</h1>
+            </br>
+            <a class="textcontacto" href="mailto:mjcaroca.araya@gmail.com">Da clic aquí para enviarme un correo</a>
+            </br>
+            </br>
+            <a class="textcontacto" href="https://api.whatsapp.com/send?phone=56933914571">Da clic aquí para comunicarnos vía WhatsApp</a>
+        </div>
+        </br>
+        <div>
+            <h1>O puedes ver mis datos de contacto aquí:</h1>
+            </br>
+            <a class="textcontacto"><strong>Correo:</strong> mjcaroca.araya@gmail.com</a>
+            </br>
+            </br>
+            <a class="textcontacto"><strong>Número de teléfono:</strong> +56 9 3391 4571</a>
+        </div>
     </body>
 </html>

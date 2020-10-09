@@ -2,7 +2,7 @@
 
 <html>
     <head>
-        <title>Inicio</title>
+        <title>Contenido</title>
         <meta charset="UTF-8">
         <link rel="icon" href="public_html/images/favicon.ico" type="image/x-icon"/>
         <link href="public_html/css/styles.css" rel="stylesheet" type="text/css"/>
@@ -23,6 +23,12 @@
             </nav>
         </header>
         </br>
-        <h1>Contenido:</h1>              
+        <h1>Contenido:</h1> 
+        </br>
+        <h4>
+            *Aquí irá contenido de interés y artículos
+            </br>
+            Aún por definir el método con el cliente
+        </h4>
     </body>
 </html>
