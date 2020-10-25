@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Contacto</title>
+        <title>Agendar hora</title>
 
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -38,9 +38,9 @@
 
                                     <li><a href="contenido.php">Contenido</a></li>
 
-                                    <li><a href="agendarHora.php">Agenda tu hora</a></li>
+                                    <li class='active'><a href="agendarHora.php">Agenda tu hora</a></li>
 
-                                    <li class='active'><a href="contacto.php">Contacto</a></li>
+                                    <li><a href="contacto.php">Contacto</a></li>
                                 </ul>
                             </nav><!-- / #primary-nav -->
                         </div>
@@ -49,13 +49,15 @@
             </header>
         </div>
         <!--
-      <section class="banner banner-secondary" id="top" style="background-image: url(img/banner-image-3-1920x300.jpg);">
+      <section class="banner banner-secondary" id="top" style="background-image: url(img/banner-image-1-1920x300.jpg);">
           <div class="container">
               <div class="row">
                   <div class="col-md-10 col-md-offset-1">
                       <div class="banner-caption">
                           <div class="line-dec"></div>
-                          <h2>Contact Us</h2>
+                          <h2>LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISICING</h2>
+  
+                          <h4><i class="fa fa-user"></i>John Doe  &nbsp;&nbsp;&nbsp;&nbsp;  <i class="fa fa-calendar"></i> 12/06/2020 10:30   &nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-eye"></i> 114</h4>
                       </div>
                   </div>
               </div>
@@ -63,36 +65,20 @@
       </section>
         -->
         <main>
-            <section class="popular-places">
+            <section class="featured-places">
                 <div class="container">
-                    <h3>Puedes contactarme directamente:</h3>
-                    </br>
-                    
-                    <img src="img/correo.png" alt=""/>
-                    <a href="mailto:mjcaroca.araya@gmail.com">Da clic aquí para enviarme un correo</a>
-                    
+                    <h2>Agenda tu hora:</h2>
                     </br>
                     </br>
-                    
-                    <img src="img/whatsApp.png" alt=""/>
-                    <a href="https://api.whatsapp.com/send?phone=56933914571">Da clic aquí para comunicarnos vía WhatsApp</a>
-                    
-                    </br>
-                    <h3>O puedes ver mis datos de contacto aquí:</h3>
-                    </br>
-                    
-                    <div class="float">
-                        <img src="img/correo.png" alt=""/>
-                    </div>
-                    <h5 class="text-contact"><strong>Correo:</strong> mjcaroca.araya@gmail.com</h5>
-                    
-                    </br>
-                    
-                    <div class="float">
-                        <img src="img/telefono.png" alt=""/>
-                    </div>
-                    <h5 class="text-contact"><strong>Número de teléfono:</strong> +56 9 3391 4571</h5>
-                    
+                    <a id="zl-url" class="zl-url" href="https://www.doctoralia.cl/maria-jose-caroca-araya/psicologo/linares" rel="nofollow" data-zlw-doctor="maria-jose-caroca-araya" data-zlw-type="big" data-zlw-opinion="false" data-zlw-hide-branding="true">Maria Jose Caroca Araya - Doctoralia.cl</a><script>!function ($_x, _s, id) {
+                var js, fjs = $_x.getElementsByTagName(_s)[0];
+                if (!$_x.getElementById(id)) {
+                    js = $_x.createElement(_s);
+                    js.id = id;
+                    js.src = "//platform.docplanner.com/js/widget.js";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }
+            }(document, "script", "zl-widget-s");</script>
                 </div>
             </section>
         </main>
