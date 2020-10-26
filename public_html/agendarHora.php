@@ -71,81 +71,75 @@
                     </br>
                     </br>
                     <a id="zl-url" class="zl-url" href="https://www.doctoralia.cl/maria-jose-caroca-araya/psicologo/linares" rel="nofollow" data-zlw-doctor="maria-jose-caroca-araya" data-zlw-type="big" data-zlw-opinion="false" data-zlw-hide-branding="true">Maria Jose Caroca Araya - Doctoralia.cl</a><script>!function ($_x, _s, id) {
-                var js, fjs = $_x.getElementsByTagName(_s)[0];
-                if (!$_x.getElementById(id)) {
-                    js = $_x.createElement(_s);
-                    js.id = id;
-                    js.src = "//platform.docplanner.com/js/widget.js";
-                    fjs.parentNode.insertBefore(js, fjs);
-                }
-            }(document, "script", "zl-widget-s");</script>
+                            var js, fjs = $_x.getElementsByTagName(_s)[0];
+                            if (!$_x.getElementById(id)) {
+                                js = $_x.createElement(_s);
+                                js.id = id;
+                                js.src = "//platform.docplanner.com/js/widget.js";
+                                fjs.parentNode.insertBefore(js, fjs);
+                            }
+                        }(document, "script", "zl-widget-s");</script>
                 </div>
             </section>
         </main>
-        <!--
-            <footer>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-5">
-                            <div class="about-veno">
-                                <div class="logo">
-                                    <img src="img/footer_logo.png" alt="Venue Logo">
-                                </div>
-                                <p>Mauris sit amet quam congue, pulvinar urna et, congue diam. Suspendisse eu lorem massa. Integer sit amet posuere tellustea dictumst.</p>
-                                <ul class="social-icons">
-                                    <li>
-                                        <a href="#"><i class="fa fa-facebook"></i></a>
-                                        <a href="#"><i class="fa fa-twitter"></i></a>
-                                        <a href="#"><i class="fa fa-linkedin"></i></a>
-                                    </li>
-                                </ul>
+
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="about-veno">
+                            <div class="logo">
+                                <img src="img/footer_logo.png">
                             </div>
+                            <h4>Redes sociales:</h4>
+                            </br>
+                            <ul class="social-icons">
+                                <li class="socialmargin">
+                                    <a href="https://www.facebook.com/psicologa.linares"><i class="fa fa-facebook"></i></a>
+                                    <a href="https://www.instagram.com/ps.mariajose.caroca/"><i class="fa fa-instagram"></i></a>
+                                    <a href="https://www.doctoralia.cl/maria-jose-caroca-araya/psicologo/linares"><i class="fa fa-book"></i></a>
+                                </li>
+                            </ul>
                         </div>
-                        <div class="col-md-4">
-                            <div class="useful-links">
-                                <div class="footer-heading">
-                                    <h4>Useful Links</h4>
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <ul>
-                                            <li><a href="inde.html"><i class="fa fa-stop"></i>Home</a></li>
-                                            <li><a href="about.html"><i class="fa fa-stop"></i>About</a></li>
-                                            <li><a href="team.html"><i class="fa fa-stop"></i>Team</a></li>
-                                            <li><a href="contacto.html"><i class="fa fa-stop"></i>Contact Us</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <ul>
-                                            <li><a href="faq.html"><i class="fa fa-stop"></i>FAQ</a></li>
-                                            <li><a href="testimonials.html"><i class="fa fa-stop"></i>Testimonials</a></li>
-                                            <li><a href="contenido.html"><i class="fa fa-stop"></i>Blog</a></li>
-                                            <li><a href="terms.html"><i class="fa fa-stop"></i>Terms</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
+                    </div>
+                    <div class="col-md-5">
+                        <div class="useful-links">
+                            <div class="footer-heading">
+                                <h4>Preguntas frecuentes</h4>
                             </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="contact-info">
-                                <div class="footer-heading">
-                                    <h4>Contact Information</h4>
+                            <div class="row">
+                                <div class="col-md-5">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-stop"></i>Métodos de pago</a></li>
+                                        <li><a href="#"><i class="fa fa-stop"></i>¿Cómo agendar una hora?</a></li>
+                                        
+                                    </ul>
                                 </div>
-                                <p><i class="fa fa-map-marker"></i> 212 Barrington Court New York, ABC</p>
-                                <ul>
-                                    <li><span>Phone:</span><a href="#">+1 333 4040 5566</a></li>
-                                    <li><span>Email:</span><a href="#">contact@company.com</a></li>
-                                </ul>
+                                <div class="col-md-5">
+                                    <ul>
+                                        <li><a href="#"><i class="fa fa-stop"></i>Método de atención</a></li>
+                                        <li><a href="#"><i class="fa fa-stop"></i>¿Cómo ingresar a una sesión?</a></li>
+                                        
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
+                    <div class="col-md-3">
+                        <div class="contact-info">
+                            <div class="footer-heading">
+                                <h4>Información de contacto</h4>
+                            </div>
+                            <ul>
+                                <li><span>Teléfono: </span>+56 9 3391 4571</li>
+                                <li><span>Correo:</span>mjcaroca.araya@gmail.com</li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
-            </footer>
-        
-            <div class="sub-footer">
-                <p>Copyright © 2020 Company Name - Template by: <a href="https://www.phpjabbers.com/">PHPJabbers.com</a></p>
             </div>
-        -->
+        </footer>
+
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="text/javascript"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 
