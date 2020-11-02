@@ -109,9 +109,9 @@
                             </br>
                             <ul class="social-icons">
                                 <li class="socialmargin">
-                                    <a href="https://www.facebook.com/psicologa.linares"><i class="fa fa-facebook"></i></a>
-                                    <a href="https://www.instagram.com/ps.mariajose.caroca/"><i class="fa fa-instagram"></i></a>
-                                    <a href="https://www.doctoralia.cl/maria-jose-caroca-araya/psicologo/linares"><i class="fa fa-book"></i></a>
+                                    <a href="https://www.facebook.com/psicologa.linares" target="_blank"><i class="fa fa-facebook"></i></a>
+                                    <a href="https://www.instagram.com/ps.mariajose.caroca/" target="_blank"><i class="fa fa-instagram"></i></a>
+                                    <a href="https://www.doctoralia.cl/maria-jose-caroca-araya/psicologo/linares" target="_blank"><i class="fa fa-book"></i></a>
                                 </li>
                             </ul>
                         </div>
