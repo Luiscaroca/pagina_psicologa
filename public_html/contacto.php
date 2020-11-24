@@ -124,16 +124,16 @@
                             <div class="row">
                                 <div class="col-md-5">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-stop"></i>Métodos de pago</a></li>
-                                        <li><a href="#"><i class="fa fa-stop"></i>¿Cómo agendar una hora?</a></li>
-                                        
+                                        <li><a href="metodoPago.php"><i class="fa fa-stop"></i>Métodos de pago</a></li>
+                                        <li><a href="comoAgendar.php"><i class="fa fa-stop"></i>¿Cómo agendar una hora?</a></li>
+
                                     </ul>
                                 </div>
                                 <div class="col-md-5">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-stop"></i>Método de atención</a></li>
-                                        <li><a href="#"><i class="fa fa-stop"></i>¿Cómo ingresar a una sesión?</a></li>
-                                        
+                                        <li><a href="metodoAtencion.php"><i class="fa fa-stop"></i>Método de atención</a></li>
+                                        <li><a href="comoIngresar.php"><i class="fa fa-stop"></i>¿Cómo ingresar a una sesión?</a></li>
+
                                     </ul>
                                 </div>
                             </div>

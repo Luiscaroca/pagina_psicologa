@@ -86,14 +86,14 @@
                         </br>
                         </br>
                         <a id="zl-url" class="zl-url" href="https://www.doctoralia.cl/maria-jose-caroca-araya/psicologo/linares#tab=profile-reviews" rel="nofollow" data-zlw-doctor="maria-jose-caroca-araya" data-zlw-type="certificate" data-zlw-opinion="false" data-zlw-hide-branding="true" target="_blank">Maria Jose Caroca Araya - Doctoralia.cl</a><script>!function ($_x, _s, id) {
-                            var js, fjs = $_x.getElementsByTagName(_s)[0];
-                            if (!$_x.getElementById(id)) {
-                                js = $_x.createElement(_s);
-                                js.id = id;
-                                js.src = "//platform.docplanner.com/js/widget.js";
-                                fjs.parentNode.insertBefore(js, fjs);
-                            }
-                        }(document, "script", "zl-widget-s");</script>
+                                var js, fjs = $_x.getElementsByTagName(_s)[0];
+                                if (!$_x.getElementById(id)) {
+                                    js = $_x.createElement(_s);
+                                    js.id = id;
+                                    js.src = "//platform.docplanner.com/js/widget.js";
+                                    fjs.parentNode.insertBefore(js, fjs);
+                                }
+                            }(document, "script", "zl-widget-s");</script>
                     </div>
                 </div>
             </section>
@@ -126,15 +126,15 @@
                             <div class="row">
                                 <div class="col-md-5">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-stop"></i>Métodos de pago</a></li>
-                                        <li><a href="#"><i class="fa fa-stop"></i>¿Cómo agendar una hora?</a></li>
+                                        <li><a href="metodoPago.php"><i class="fa fa-stop"></i>Métodos de pago</a></li>
+                                        <li><a href="comoAgendar.php"><i class="fa fa-stop"></i>¿Cómo agendar una hora?</a></li>
 
                                     </ul>
                                 </div>
                                 <div class="col-md-5">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-stop"></i>Método de atención</a></li>
-                                        <li><a href="#"><i class="fa fa-stop"></i>¿Cómo ingresar a una sesión?</a></li>
+                                        <li><a href="metodoAtencion.php"><i class="fa fa-stop"></i>Método de atención</a></li>
+                                        <li><a href="comoIngresar.php"><i class="fa fa-stop"></i>¿Cómo ingresar a una sesión?</a></li>
 
                                     </ul>
                                 </div>

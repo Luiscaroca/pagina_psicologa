@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Inicio</title>
+        <title>¿Cómo agendar hora?</title>
 
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,7 +34,7 @@
                                 </div></a>
                             <nav id="primary-nav" class="dropdown cf">
                                 <ul class="dropdown menu">
-                                    <li class='active'><a href="index.php">Inicio</a></li>
+                                    <li><a href="index.php">Inicio</a></li>
 
                                     <li><a href="contenido.php">Contenido</a></li>
 
@@ -69,64 +69,7 @@
             <section class="our-services">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-4">
-                            <img id="imgpsicologa" src="img/psicologa.jpg" alt="">
-                        </div>
-                        <div class="col-md-7">
-                            <div class="right-content">
-                                <br>
-                                <h4>Sobre mí:</h4>
-                                <p>Decidir comenzar un proceso de terapia no es fácil, pero a la vez es una de las decisiones más 
-                                    importantes que se pueden tomar por uno mismo. Implica mirarse y entrar en aspectos que por lo 
-                                    general evitamos hasta que nos empieza a generar malestar, reclamando nuestra atención. Pero con 
-                                    un buen acompañamiento, este proceso logra tener frutos que resultan ser maravillosos para nuestras vidas.
-                                    </br>
-                                    </br>
-                                    Si en este momento hay algún aspecto de tu vida que quisieras mejorar, algo que sientas que te está aproblemando, que 
-                                    ya te está generando agotamiento y una sensación de que tienes que "lidiar" con eso, sin poder fluir como quisieras, 
-                                    tal vez sería bueno considerar el tiempo de iniciar una terapia. Si tienes dudas acerca de si puedo ayudarte, estaré 
-                                    feliz de que me contactes y me cuentes más acerca de tu problema.
-                                    </br>
-                                    </br>
-                                    María José Caroca</p>
-                                <br>
-                                <h4>Servicios:</h4>
-                                <p>
-                                    •Psicología Clínica.
-                                    </br>
-                                    •Psicología Clínica de Adultos.
-                                    </br>
-                                    •Psicoterapia.
-                                    </br>
-                                    •Psicoterapia en adolescentes y adultos.
-                                </p>
-                                </br>
-                                <h4>Enfermedades tratadas:</h4>
-                                <p>
-                                    •Estrés.
-                                    </br>
-                                    •Violencia intrafamiliar.
-                                    </br>
-                                    •Trastorno de estrés postraumático.
-                                    </br>
-                                    •Trastornos del ánimo.
-                                    </br>
-                                    •Maltrato grave.
-                                    </br>
-                                    •Trastorno de control de impulsos.
-                                    </br>
-                                    •Problemas de autoestima.
-                                    </br>
-                                    •Depresión.
-                                    </br>
-                                    •Duelos Patológicos.
-                                    </br>
-                                    •Trastornos adaptativos.
-                                    </br>
-                                    •Trastornos de ansiedad.
-                                </p>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </section>
@@ -169,7 +112,7 @@
                                     <ul>
                                         <li><a href="metodoAtencion.php"><i class="fa fa-stop"></i>Método de atención</a></li>
                                         <li><a href="comoIngresar.php"><i class="fa fa-stop"></i>¿Cómo ingresar a una sesión?</a></li>
-                                        
+
                                     </ul>
                                 </div>
                             </div>

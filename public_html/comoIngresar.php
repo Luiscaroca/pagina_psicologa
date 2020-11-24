@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Inicio</title>
+        <title>¿Cómo ingresar a sesión?</title>
 
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,7 +34,7 @@
                                 </div></a>
                             <nav id="primary-nav" class="dropdown cf">
                                 <ul class="dropdown menu">
-                                    <li class='active'><a href="index.php">Inicio</a></li>
+                                    <li><a href="index.php">Inicio</a></li>
 
                                     <li><a href="contenido.php">Contenido</a></li>
 
@@ -69,62 +69,105 @@
             <section class="our-services">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-4">
-                            <img id="imgpsicologa" src="img/psicologa.jpg" alt="">
-                        </div>
+                        <h3 style="text-align: center;"><Strong>¿Cómo ingresar a las sesiones?</Strong></h3>
+                        </br>
                         <div class="col-md-7">
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            <div class="left-content">
+                                <p>
+                                    Ahora que ya tenemos agendada nuestra sesión, te explicaré cómo ingresar.
+                                    Usaremos la aplicación Meet que es de gmail. 
+                                    Así que sólo necesitas tu correo para poder ingresar, ya que entrarás a la videollamada desde allí.
+                                    </br>
+                                    Se puede usar desde el computador o desde el teléfono.
+                                    Desde el celular sí la tienes que tener instalada para ingresar.
+                                    Esta es la aplicación para que la puedas descargar si es necesario:
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
                             <div class="right-content">
-                                <br>
-                                <h4>Sobre mí:</h4>
-                                <p>Decidir comenzar un proceso de terapia no es fácil, pero a la vez es una de las decisiones más 
-                                    importantes que se pueden tomar por uno mismo. Implica mirarse y entrar en aspectos que por lo 
-                                    general evitamos hasta que nos empieza a generar malestar, reclamando nuestra atención. Pero con 
-                                    un buen acompañamiento, este proceso logra tener frutos que resultan ser maravillosos para nuestras vidas.
-                                    </br>
-                                    </br>
-                                    Si en este momento hay algún aspecto de tu vida que quisieras mejorar, algo que sientas que te está aproblemando, que 
-                                    ya te está generando agotamiento y una sensación de que tienes que "lidiar" con eso, sin poder fluir como quisieras, 
-                                    tal vez sería bueno considerar el tiempo de iniciar una terapia. Si tienes dudas acerca de si puedo ayudarte, estaré 
-                                    feliz de que me contactes y me cuentes más acerca de tu problema.
-                                    </br>
-                                    </br>
-                                    María José Caroca</p>
-                                <br>
-                                <h4>Servicios:</h4>
+                                <img class="imgingresar" style="margin-left: 60px;" id="ingresar01" src="img/ingresar_sesion/01.png" alt="">
+                            </div>
+                            </br>
+                        </div>
+                        
+                        <div class="col-md-7">
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            <div class="left-content">
                                 <p>
-                                    •Psicología Clínica.
-                                    </br>
-                                    •Psicología Clínica de Adultos.
-                                    </br>
-                                    •Psicoterapia.
-                                    </br>
-                                    •Psicoterapia en adolescentes y adultos.
+                                    Yo programaré la sesión y te enviaré una invitación por correo, que se verá algo así:
                                 </p>
-                                </br>
-                                <h4>Enfermedades tratadas:</h4>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="right-content">
+                                <img class="imgingresar" style="margin-left: 60px;" id="ingresar02" src="img/ingresar_sesion/02.png" alt="">
+                            </div>
+                            </br>
+                        </div>
+
+                        <div class="col-md-7">
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            <div class="left-content">
                                 <p>
-                                    •Estrés.
-                                    </br>
-                                    •Violencia intrafamiliar.
-                                    </br>
-                                    •Trastorno de estrés postraumático.
-                                    </br>
-                                    •Trastornos del ánimo.
-                                    </br>
-                                    •Maltrato grave.
-                                    </br>
-                                    •Trastorno de control de impulsos.
-                                    </br>
-                                    •Problemas de autoestima.
-                                    </br>
-                                    •Depresión.
-                                    </br>
-                                    •Duelos Patológicos.
-                                    </br>
-                                    •Trastornos adaptativos.
-                                    </br>
-                                    •Trastornos de ansiedad.
+                                    Y cuando sea la hora de tener la sesión, debes pinchar en este link:
                                 </p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="right-content">
+                                <img class="imgingresar" style="margin-left: 60px;" id="ingresar03" src="img/ingresar_sesion/03.png" alt="">
+                            </div>
+                            </br>
+                        </div>
+
+                        <div class="col-md-7">
+                            </br>
+                            </br>
+                            </br>
+                            <div class="left-content">
+                                <p>
+                                    Verás algo así, y tienes que pinchar en “unirse a la reunión”.
+                                    </br>
+                                    Yo ya estaré conectada. Y si dice como en la imagen “eres el primero en llegar”, no te preocupes, que ya estaré.
+                                    </br>
+                                    Para mí es muy importante la puntualidad, por eso cuido mucho los tiempos.
+                                    </br>
+                                    También puede ser que en el correo diga un horario distinto del que habíamos agendado,
+                                    pero ese no lo tomes en cuenta, porque a veces se cambia por el uso horario.
+                                    </br>
+                                    Siempre la hora válida será la que hayamos agendado y que se recordará a través del mensaje de la página de doctoralia.
+                                    ¡Nos vemos!
+
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <div class="right-content">
+                                <img class="imgingresar" style="margin-left: 60px;" id="ingresar04" src="img/ingresar_sesion/04.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -162,14 +205,14 @@
                                     <ul>
                                         <li><a href="metodoPago.php"><i class="fa fa-stop"></i>Métodos de pago</a></li>
                                         <li><a href="comoAgendar.php"><i class="fa fa-stop"></i>¿Cómo agendar una hora?</a></li>
-                                        
+
                                     </ul>
                                 </div>
                                 <div class="col-md-5">
                                     <ul>
                                         <li><a href="metodoAtencion.php"><i class="fa fa-stop"></i>Método de atención</a></li>
                                         <li><a href="comoIngresar.php"><i class="fa fa-stop"></i>¿Cómo ingresar a una sesión?</a></li>
-                                        
+
                                     </ul>
                                 </div>
                             </div>

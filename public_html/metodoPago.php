@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Inicio</title>
+        <title>Métodos de pago</title>
 
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,7 +34,7 @@
                                 </div></a>
                             <nav id="primary-nav" class="dropdown cf">
                                 <ul class="dropdown menu">
-                                    <li class='active'><a href="index.php">Inicio</a></li>
+                                    <li><a href="index.php">Inicio</a></li>
 
                                     <li><a href="contenido.php">Contenido</a></li>
 
@@ -69,61 +69,42 @@
             <section class="our-services">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-4">
-                            <img id="imgpsicologa" src="img/psicologa.jpg" alt="">
-                        </div>
-                        <div class="col-md-7">
-                            <div class="right-content">
-                                <br>
-                                <h4>Sobre mí:</h4>
-                                <p>Decidir comenzar un proceso de terapia no es fácil, pero a la vez es una de las decisiones más 
-                                    importantes que se pueden tomar por uno mismo. Implica mirarse y entrar en aspectos que por lo 
-                                    general evitamos hasta que nos empieza a generar malestar, reclamando nuestra atención. Pero con 
-                                    un buen acompañamiento, este proceso logra tener frutos que resultan ser maravillosos para nuestras vidas.
-                                    </br>
-                                    </br>
-                                    Si en este momento hay algún aspecto de tu vida que quisieras mejorar, algo que sientas que te está aproblemando, que 
-                                    ya te está generando agotamiento y una sensación de que tienes que "lidiar" con eso, sin poder fluir como quisieras, 
-                                    tal vez sería bueno considerar el tiempo de iniciar una terapia. Si tienes dudas acerca de si puedo ayudarte, estaré 
-                                    feliz de que me contactes y me cuentes más acerca de tu problema.
-                                    </br>
-                                    </br>
-                                    María José Caroca</p>
-                                <br>
-                                <h4>Servicios:</h4>
-                                <p>
-                                    •Psicología Clínica.
-                                    </br>
-                                    •Psicología Clínica de Adultos.
-                                    </br>
-                                    •Psicoterapia.
-                                    </br>
-                                    •Psicoterapia en adolescentes y adultos.
-                                </p>
+                        <div class="col-md-6">
+                            <div class="leftt-content">
+                                <h4><strong>Valores:</strong></h4>
                                 </br>
-                                <h4>Enfermedades tratadas:</h4>
                                 <p>
-                                    •Estrés.
+                                    <strong>FONASA:</strong> Bono primera sesión: $9.120
                                     </br>
-                                    •Violencia intrafamiliar.
+                                    Bonos desde segunda sesión: $9.960
                                     </br>
-                                    •Trastorno de estrés postraumático.
+                                    <strong>*Es un bono por cada sesión.</strong>
                                     </br>
-                                    •Trastornos del ánimo.
                                     </br>
-                                    •Maltrato grave.
+                                    <Strong>PARTICULAR:</Strong> El valor de cada sesión es $20.000
                                     </br>
-                                    •Trastorno de control de impulsos.
+                                    Si tiene <strong>Isapre</strong>, con la boleta puede hacer el
+                                    reembolso según su plan.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="right-content">
+                                <h4><strong>Formas de pago:</strong></h4>
+                                </br>
+                                <p>
+                                    <Strong>Transferencia electrónica (realizar antes de que se realice la sesión) o depósito en cuenta RUT.</Strong>
                                     </br>
-                                    •Problemas de autoestima.
+                                    <strong>Datos para transferencia:</strong>
                                     </br>
-                                    •Depresión.
+                                    <Strong>Cuenta:</Strong> RUT Banco Estado (cuenta vista)
                                     </br>
-                                    •Duelos Patológicos.
+                                    <strong>Nombre:</strong> María José Caroca Araya
                                     </br>
-                                    •Trastornos adaptativos.
+                                    <Strong>Rut:</Strong> 17.015.073-2
                                     </br>
-                                    •Trastornos de ansiedad.
+                                    Enviar comprobante a <a href="mailto:mjcaroca.araya@gmail.com?subject=Comprobante de pago">mjcaroca.araya@gmail.com</a> o por <a href="https://api.whatsapp.com/send?phone=56933914571">WhatsApp</a>
                                 </p>
                             </div>
                         </div>
@@ -162,14 +143,14 @@
                                     <ul>
                                         <li><a href="metodoPago.php"><i class="fa fa-stop"></i>Métodos de pago</a></li>
                                         <li><a href="comoAgendar.php"><i class="fa fa-stop"></i>¿Cómo agendar una hora?</a></li>
-                                        
+
                                     </ul>
                                 </div>
                                 <div class="col-md-5">
                                     <ul>
                                         <li><a href="metodoAtencion.php"><i class="fa fa-stop"></i>Método de atención</a></li>
                                         <li><a href="comoIngresar.php"><i class="fa fa-stop"></i>¿Cómo ingresar a una sesión?</a></li>
-                                        
+
                                     </ul>
                                 </div>
                             </div>

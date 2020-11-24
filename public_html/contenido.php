@@ -65,20 +65,20 @@
         <main>
             <section class="featured-places">
                 <div class="container">
-                        <!-- Place <div> tag where you want the feed to appear -->
-                        <div id="curator-feed-default-feed-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
-                        <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
-                        <script type="text/javascript">
-                            /* curator-feed-default-feed-layout */
-                            (function () {
-                                var i, e, d = document, s = "script";
-                                i = d.createElement("script");
-                                i.async = 1;
-                                i.src = "https://cdn.curator.io/published/c2594e05-ca43-4373-b801-4a0d26fca2db.js";
-                                e = d.getElementsByTagName(s)[0];
-                                e.parentNode.insertBefore(i, e);
-                            })();
-                        </script>
+                    <!-- Place <div> tag where you want the feed to appear -->
+                    <div id="curator-feed-default-feed-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
+                    <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+                    <script type="text/javascript">
+                        /* curator-feed-default-feed-layout */
+                        (function () {
+                            var i, e, d = document, s = "script";
+                            i = d.createElement("script");
+                            i.async = 1;
+                            i.src = "https://cdn.curator.io/published/c2594e05-ca43-4373-b801-4a0d26fca2db.js";
+                            e = d.getElementsByTagName(s)[0];
+                            e.parentNode.insertBefore(i, e);
+                        })();
+                    </script>
                 </div>
             </section>
         </main>
@@ -110,15 +110,15 @@
                             <div class="row">
                                 <div class="col-md-5">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-stop"></i>Métodos de pago</a></li>
-                                        <li><a href="#"><i class="fa fa-stop"></i>¿Cómo agendar una hora?</a></li>
+                                        <li><a href="metodoPago.php"><i class="fa fa-stop"></i>Métodos de pago</a></li>
+                                        <li><a href="comoAgendar.php"><i class="fa fa-stop"></i>¿Cómo agendar una hora?</a></li>
 
                                     </ul>
                                 </div>
                                 <div class="col-md-5">
                                     <ul>
-                                        <li><a href="#"><i class="fa fa-stop"></i>Método de atención</a></li>
-                                        <li><a href="#"><i class="fa fa-stop"></i>¿Cómo ingresar a una sesión?</a></li>
+                                        <li><a href="metodoAtencion.php"><i class="fa fa-stop"></i>Método de atención</a></li>
+                                        <li><a href="comoIngresar.php"><i class="fa fa-stop"></i>¿Cómo ingresar a una sesión?</a></li>
 
                                     </ul>
                                 </div>
