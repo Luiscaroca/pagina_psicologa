@@ -13,6 +13,7 @@ p {
   font-size: 14px;
   line-height: 24px;
   left: 0.25px;
+  text-align: justify;
 }
 
 section {
@@ -1337,10 +1338,13 @@ main > section:nth-child(even) {
     margin-top: 30px;
 }
 
-.imgingresar{
+.imgsec{
     border-radius: 10px;
     border: solid;
     border-color: white;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .float{

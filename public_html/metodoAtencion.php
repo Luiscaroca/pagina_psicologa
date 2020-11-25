@@ -69,7 +69,23 @@
             <section class="our-services">
                 <div class="container">
                     <div class="row">
-                        
+                        <h3 style="text-align: center;"><strong>Método de atención:</strong></h3>
+                        </br>
+                        <div class="col-md-6">
+                            </br>
+                            </br>
+                            </br>
+                            </br>
+                            <p>
+                                Debido a las circuntancias a las que nos enfrentamos actualmente, el único método 
+                                de atención con el cual se está trabajando es de modalidad online, a través de la aplicación
+                                de <strong>Google Meet</strong>, la cual puedes utilizar desde un computador o descargar la 
+                                aplicación para tu dispositivo móvil.
+                            </p>
+                        </div>
+                        <div class="col-md-6">
+                            <a href="https://meet.google.com/" target="_blank"><img  class="imgsec" id="googlemeet" src="img/meet.png" alt=""></a>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -105,7 +121,7 @@
                                     <ul>
                                         <li><a href="metodoPago.php"><i class="fa fa-stop"></i>Métodos de pago</a></li>
                                         <li><a href="comoAgendar.php"><i class="fa fa-stop"></i>¿Cómo agendar una hora?</a></li>
-                                        
+
                                     </ul>
                                 </div>
                                 <div class="col-md-5">

@@ -69,7 +69,126 @@
             <section class="our-services">
                 <div class="container">
                     <div class="row">
-                        
+                        <h3 style="text-align: center;"><Strong>¿Cómo agendar una hora?</Strong></h3>
+                        </br>
+                        <div class="col-md-12">
+                            <p>
+                                Primero ve a <a href="agendarHora.php" target="_blank">Agenda tu hora</a> 
+                                y haz clic en el botón que dice <strong>Reservar cita</strong>.
+                                </br>
+                                Tambíen puedes ir directo a la página de <a href="https://www.doctoralia.cl/maria-jose-caroca-araya/psicologo/linares" target="_blank">Doctoralia</a>.
+                            </p>
+                        </div>
+                        <div class="col-md-12">
+                            <img class="imgsec" id="agendar01" src="img/agendar_hora/01.png" alt="">
+                        </div>
+
+                        <div class="col-md-12">
+                            <p>
+                                Se abrirá una nueva pestaña en donde se verá lo siguiente. 
+                                Si se ingresó a través esta misma página, se resaltará automáticamente 
+                                el calendario y podrás ver las horas disponibles. Selecciona la hora 
+                                disponible que más te acomode.
+                            </p>
+                        </div>
+                        <div class="col-md-12">
+                            <img class="imgsec" id="agendar02" src="img/agendar_hora/02.png" alt="">
+                        </div>
+
+                        <div class="col-md-12">
+                            <p>
+                                Rellena el formulario con los datos del paciente. Selecciona tu prevision médica. 
+                                En caso de que no aparezca en la lista tu previsión, marca la casilla 
+                                <strong>No dispongo de previsión</strong>.
+                            </p>
+                        </div>
+                        <div class="col-md-12">
+                            <img class="imgsec" id="agendar03" src="img/agendar_hora/03.png" alt="">
+                        </div>
+
+                        <div class="col-md-12">
+                            <p>
+                                Puedes agregar un comentario que creas que pueda ser útil y que deba ser
+                                de conocimiento previo. Como presentar el motivo de tu consulta, o alguún 
+                                dato que no haya sido incluido en el formulario.
+                                </br>
+                                Además debes marcar sí o sí la casilla donde se indica que aceptas los 
+                                términos y condiciones.
+                            </p>
+                        </div>
+                        <div class="col-md-12">
+                            <img class="imgsec" id="agendar04" src="img/agendar_hora/04.png" alt="">
+                        </div>
+
+                        <div class="col-md-12">
+                            <p>
+                                Se enviará un mensaje de texto a tu celular (que ingresaste en el formulario anterior) 
+                                y este contendrá un código de 4 cifras. Ingrésalo y presiona el botón <strong>Continuar</strong>.
+                            </p>
+                        </div>
+                        <div class="col-md-12">
+                            <img class="imgsec" id="agendar05" src="img/agendar_hora/05.png" alt="">
+                        </div>
+
+                        <div class="col-md-12">
+                            <p>
+                                Tu hora está finalmente agendada, te llegará un correo confirmando tu hora.
+                                Podrás consultar la hora en cualquier momento en tu correo y se te recordará
+                                antes de la cita vía SMS a tu celular.
+                            </p>
+                        </div>
+                        <div class="col-md-12">
+                            <img class="imgsec" id="agendar06" src="img/agendar_hora/06.png" alt="">
+                        </div>
+
+                        <div class="col-md-12">
+                            <p>
+                                <strong>También podrás consultar los siguientes puntos, los cuales debes 
+                                    de tener en cuenta al momento de participar en la consulta online.</strong>
+                            </p>
+                        </div>
+                        <div class="col-md-12">
+                            <img class="imgsec" id="agendar07" src="img/agendar_hora/07.png" alt="">
+                        </div>
+
+                        <div class="col-md-12">
+                            <h3 style="text-align: center;"><strong>Hola! Ya tenemos agendada nuestra sesión online y 
+                                    quisiera contarte algunas consideraciones a tener en cuenta:</strong></h3>
+                            <p>
+                                <strong>1.</strong> Te recomiendo buscar un lugar en que estés tranquila o tranquilo.
+                                </br>
+                                <strong>2.</strong> Si estás con más personas, avisar que estarás ocupada u ocupado o 
+                                incluso poner un letrero de “no molestar” para que no te interrumpan en la sesión.
+                                </br>
+                                <strong>3.</strong> La agenda se maneja desde la página de doctoralia, donde se gestionan las horas. 
+                                </br>
+                                <strong>4.</strong> El día anterior recibirás un recordatorio de nuestra sesión y yo además 
+                                te enviaré la invitación a la videollamada por correo. 
+                                </br>
+                                <strong>5.</strong> Mientras no esté cancelada la hora, yo asumiré que está confirmada y programaré las videollamadas. 
+                                </br>
+                                <strong>6.</strong> Usaremos la aplicación Meet, que se puede usar desde el teléfono o el computador.
+                                </br>
+                                <strong>7.</strong> Si necesitas cancelar tu hora, te pido que lo hagas a través de la página de 
+                                doctoralia. Así me permites reorganizar la agenda y que alguien más pueda tomar ese horario. 
+                                Pero si necesitas reagendar, te pido que la canceles y que de todas maneras me avises por whatsapp 
+                                que necesitas reagendar. Así lo podemos reprogramar. 
+                                Es importante que me avises porque manejo la agenda por cupos y si cancelas sin avisarme que necesitas 
+                                otra hora, entenderé que no continuarás con la terapia y el cupo lo podría tomar otra persona. Asimismo, 
+                                si no te presentas a la sesión sin avisarme, entenderé que no continuarás y el cupo se podría ocupar.
+                                </br>
+                                <strong>8.</strong> Las sesiones son de 45 minutos. 
+                                </br>
+                                <strong>9.</strong> En cuanto a los atrasos, yo hago todo lo posible porque esto no me suceda, así que 
+                                también te pido lo mismo. Si yo me retrasara, ten la tranquilidad de que tendrás igual todo tu tiempo de sesión. 
+                                Pero si llegas con retraso, se respetará el horario según agenda, para que tengas en cuenta y organices este tiempo 
+                                que es para ti.
+                                </br>
+                                <strong>10.</strong> El pago de la sesión (sea particular o con bono de FONASA) será vía transferencia electrónica 
+                                de manera previa a iniciar la sesión. El comprobante debe ser enviado a mi correo mjcaroca.araya@gmail.com o por whatsapp.                                
+                            </p>
+                            <h3 style="text-align: center;"><strong>Nos encontramos pronto, un abrazo!</strong></h3>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -105,7 +224,7 @@
                                     <ul>
                                         <li><a href="metodoPago.php"><i class="fa fa-stop"></i>Métodos de pago</a></li>
                                         <li><a href="comoAgendar.php"><i class="fa fa-stop"></i>¿Cómo agendar una hora?</a></li>
-                                        
+
                                     </ul>
                                 </div>
                                 <div class="col-md-5">

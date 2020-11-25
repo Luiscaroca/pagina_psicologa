@@ -92,7 +92,7 @@
 
                         <div class="col-md-3">
                             <div class="right-content">
-                                <img class="imgingresar" style="margin-left: 60px;" id="ingresar01" src="img/ingresar_sesion/01.png" alt="">
+                                <img class="imgsec" style="margin-left: 60px;" id="ingresar01" src="img/ingresar_sesion/01.png" alt="">
                             </div>
                             </br>
                         </div>
@@ -115,7 +115,7 @@
 
                         <div class="col-md-3">
                             <div class="right-content">
-                                <img class="imgingresar" style="margin-left: 60px;" id="ingresar02" src="img/ingresar_sesion/02.png" alt="">
+                                <img class="imgsec" style="margin-left: 60px;" id="ingresar02" src="img/ingresar_sesion/02.png" alt="">
                             </div>
                             </br>
                         </div>
@@ -138,7 +138,7 @@
 
                         <div class="col-md-3">
                             <div class="right-content">
-                                <img class="imgingresar" style="margin-left: 60px;" id="ingresar03" src="img/ingresar_sesion/03.png" alt="">
+                                <img class="imgsec" style="margin-left: 60px;" id="ingresar03" src="img/ingresar_sesion/03.png" alt="">
                             </div>
                             </br>
                         </div>
@@ -167,7 +167,7 @@
 
                         <div class="col-md-3">
                             <div class="right-content">
-                                <img class="imgingresar" style="margin-left: 60px;" id="ingresar04" src="img/ingresar_sesion/04.png" alt="">
+                                <img class="imgsec" style="margin-left: 60px;" id="ingresar04" src="img/ingresar_sesion/04.png" alt="">
                             </div>
                         </div>
                     </div>
