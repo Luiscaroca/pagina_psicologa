@@ -948,18 +948,19 @@ section.contact .section-heading {
 /* Modal button */
 .modal-btn {
   display: inline-block;
-  background-color: #4883ff;
-  color: #fff;
+  background-color: #cff145;
+  color: black;
   font-size: 15px;
   font-weight: 500;
   padding: 10px 16px;
   text-decoration: none;
-  border: 2px solid #4883ff;
+  border: 2px solid #36945c;
   transition: all 0.5s;
+  border-radius: 5px;
 }
 .modal-btn:hover {
-  background-color: transparent;
-  color: #4883ff;
+  background-color: #36945c;
+  color: #fff;
 }
 
 /* Modal */
@@ -1360,6 +1361,14 @@ main > section:nth-child(even) {
     margin-left: 30px;
 }
 
-.center-vertical{
-    vertical-align: middle;
+#textnombre{
+    margin-left: 76px;
+    width: 350px;
+}
+
+#textcomentario{
+    resize:none;
+    height: 100px;
+    width: 350px;
+    margin-left: 3px;
 }
