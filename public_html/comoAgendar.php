@@ -97,7 +97,7 @@
 
                         <div class="col-md-12">
                             <p>
-                                Rellena el formulario con los datos del paciente. Selecciona tu prevision médica. 
+                                Rellena el formulario con los datos del paciente. Selecciona tu previsión médica. 
                                 En caso de que no aparezca en la lista tu previsión, marca la casilla 
                                 <strong>No dispongo de previsión</strong>.
                             </p>
@@ -109,8 +109,8 @@
                         <div class="col-md-12">
                             <p>
                                 Puedes agregar un comentario que creas que pueda ser útil y que deba ser
-                                de conocimiento previo. Como presentar el motivo de tu consulta, o alguún 
-                                dato que no haya sido incluido en el formulario.
+                                de conocimiento previo. Como presentar el motivo de tu consulta o algún 
+                                dato que no haya sido incluido en el formulario anterior.
                                 </br>
                                 Además debes marcar sí o sí la casilla donde se indica que aceptas los 
                                 términos y condiciones.

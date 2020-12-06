@@ -149,14 +149,14 @@
                             </br>
                             <div class="left-content">
                                 <p>
-                                    Verás algo así, y tienes que pinchar en “unirse a la reunión”.
+                                    Verás algo así, y tienes que pinchar en “Unirse a la reunión”.
                                     </br>
-                                    Yo ya estaré conectada. Y si dice como en la imagen “eres el primero en llegar”, no te preocupes, que ya estaré.
+                                    Yo ya estaré conectada. Y si dice como en la imagen “Eres el primero en llegar”, no te preocupes, que ya estaré.
                                     </br>
                                     Para mí es muy importante la puntualidad, por eso cuido mucho los tiempos.
                                     </br>
                                     También puede ser que en el correo diga un horario distinto del que habíamos agendado,
-                                    pero ese no lo tomes en cuenta, porque a veces se cambia por el uso horario.
+                                    pero ese no lo tomes en cuenta, porque a veces se cambia por el huso horario.
                                     </br>
                                     Siempre la hora válida será la que hayamos agendado y que se recordará a través del mensaje de la página de doctoralia.
                                     ¡Nos vemos!
