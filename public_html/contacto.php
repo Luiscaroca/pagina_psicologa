@@ -102,7 +102,7 @@
                             </div>
                             <h5 class="text-contact"><strong>Número de teléfono:</strong> +56 9 3391 4571</h5>
                             </br>
-                            <a href="https://api.whatsapp.com/send?phone=56933914571" class="fa fa-whatsapp"> Da clic aquí para comunicarnos vía WhatsApp directamente.</a>
+                            <a href="https://api.whatsapp.com/send?phone=56933914571" class="fa fa-whatsapp" target="_blank"> Da clic aquí para comunicarnos vía WhatsApp directamente.</a>
                         </div>
                     </div>
                     </br>
